@@ -1,3 +1,2 @@
 Namespace,Project,Commit_Count,Branch_Count,Full_URL,github_org,github_repo
-cmfmigration,solar-system-gitea,2,1,http://gitlabpoc.eastus.cloudapp.azure.com/cmfmigration/solar-system-gitea,Gitlab-migration-test,solar-system-gitea141
-cmfmigration,calotracker,1,1,http://gitlabpoc.eastus.cloudapp.azure.com/cmfmigration/calotracker,Gitlab-migration-test,calotracker141
+microsot-group,Project1,1,1,https://gitlab.com/microsot-group/Project1,Gitlab-migration-test,Project1
